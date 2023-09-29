@@ -1,1 +1,3 @@
 # Resume
+Resume designed with html and css...
+Give star to repo please..
