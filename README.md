@@ -7,6 +7,4 @@
   <li>Just run index.html with live server</li>
 </ul></div>
 
-<div>
-  <p>Just Run index.html with live server.</p>
-</div>
+
